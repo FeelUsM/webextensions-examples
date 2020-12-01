@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: LwqJ5zZoBjXdLH5bvStwAg==
+SHA1-Digest: HNaYYidraKsRJUVbpJEnIxVSV4Y=
+SHA256-Digest: ADI6IyXSOiSKRwVdRg1XgJs+Hnj45WOlYaVrI0kHCiY=
+
+Name: script.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 6rqbRFrJqk7MrWguLaheEg==
+SHA1-Digest: htfA/GNPtCXCTmCY1T5fMMrsAJ0=
+SHA256-Digest: arQU7gZonF+OPr6K19YyEsnqdY9uMM8PBLa74KoCshY=
+
+Name: icons/O128.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: a28wt8pEpRKSkoPffpI0JQ==
+SHA1-Digest: QOvcjz8gnu6sLi+GVEOThMF/T8Y=
+SHA256-Digest: 3VW55/5Cr3dVSisgP6ic/PTPoHuzDppwFPrkwBLIEcQ=
+
+Name: icons/O16.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: rwHyii0mrXbNdbn0CjBBsA==
+SHA1-Digest: /FpuCIdFCrN0hgWAiCeDyk0HI3k=
+SHA256-Digest: MECVRjCkBNc05VzbtoQPekSY7BjcpssMZgdaOkhUF+U=
+
+Name: icons/O48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: UeAk8B66MDh1gFfYvMPtVg==
+SHA1-Digest: sDnlzFS7INsra4UcmoWNNiW1A4E=
+SHA256-Digest: SxRyjSBoWWFGvmEisnUUTJJZw/vrjKmzWqILH48FVTY=
+

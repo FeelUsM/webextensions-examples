@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: content_script.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eDjT4NnRM4/ur02N8h6+YA==
+SHA1-Digest: K4lSzEaUtrTe9KDHZj00aOM/MRY=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8abjBo0/aO6LyjhvVEqrLw==
+SHA1-Digest: 8TtnAm9pyhKLZ51P22ohX0ACJhQ=
+
+Name: script.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WQ7mCsMebePEa8XuR3uPBA==
+SHA1-Digest: jCkDLH/egq20rRiFhCYKYIs7NbQ=
+
+Name: icons/icon-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6DWmHI7nGiLT11HMS+KFLQ==
+SHA1-Digest: 0GaoPOFW1WZfLYFVqOv20BgXSRc=
+
+Name: icons/icon-96.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Zoa7+IdLDyqdVZ8V9qTBGQ==
+SHA1-Digest: 7gF0dMw44Yir1Z4CgTIQYO38NeY=
+
+Name: LICENSE
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oroBaf0I14V0Th6WZark8w==
+SHA1-Digest: hfdowomDTywqmhiJY9GeVmrIFf4=
+

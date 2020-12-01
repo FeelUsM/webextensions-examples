@@ -1,0 +1,20 @@
+{
+
+  "description": "info about current tab",
+  "manifest_version": 2,
+  "name": "TabInfo",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/beasts-48.png"
+  },
+
+  "browser_action": {
+    "default_icon": "icons/beasts-32.png",
+    "default_title": "TabInfo",
+    "default_popup": "popup/tabinfo.html"
+  },
+  
+  "permissions": [
+    "tabs"
+  ]
+}
